@@ -5,7 +5,9 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 
 public class Persona implements Serializable {
-	
+	/**
+	 * Uso de la clase Serializable, perteneciente a la clase java.io
+	 */
 
 	private String nombre;
 	
